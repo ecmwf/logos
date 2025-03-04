@@ -3,8 +3,8 @@
 
 <svg
    width="104.77146mm"
-   height="31.545008mm"
-   viewBox="0 0 104.77146 31.545008"
+   height="31.75mm"
+   viewBox="0 0 104.77146 31.75"
    version="1.1"
    id="svg1"
    sodipodi:docname="earthkit-dark.svg"
@@ -23,13 +23,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.6819304"
-     inkscape:cx="196.20312"
-     inkscape:cy="100.77706"
+     inkscape:zoom="3.3638608"
+     inkscape:cx="236.63286"
+     inkscape:cy="26.309055"
      inkscape:window-width="1472"
      inkscape:window-height="916"
-     inkscape:window-x="40"
-     inkscape:window-y="25"
+     inkscape:window-x="1451"
+     inkscape:window-y="252"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -120,46 +120,38 @@
          sodipodi:arc-type="arc"
          d="M 33.909215,41.900627 A 17.230442,17.230442 0 0 1 32.980416,39.779241"
          sodipodi:open="true" />
-      <g
-         id="g1"
-         style="stroke:#6dabff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
-        <ellipse
-           style="fill:none;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           id="path2"
-           cx="49.395134"
-           cy="33.978809"
-           rx="3.3404157"
-           ry="14.090416" />
-        <ellipse
-           style="fill:none;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           id="path2-9"
-           cx="49.395134"
-           cy="33.978809"
-           rx="9.2733812"
-           ry="13.919784" />
-        <g
-           id="g14"
-           style="stroke:#6dabff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1">
-          <path
-             style="fill:none;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="M 35.380957,33.97881 H 63.409311"
-             id="path3" />
-          <path
-             style="fill:none;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="m 37.099233,40.51518 h 24.42859"
-             id="path4" />
-          <path
-             style="fill:none;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-             d="m 37.256622,27.245583 h 24.4286"
-             id="path4-4" />
-        </g>
-        <circle
-           style="fill:none;fill-opacity:0;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-           id="path1"
-           cx="49.395226"
-           cy="33.979225"
-           r="14.233227" />
-      </g>
+      <ellipse
+         style="fill:none;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path2"
+         cx="49.395134"
+         cy="33.978809"
+         rx="3.3404157"
+         ry="14.090416" />
+      <ellipse
+         style="fill:none;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path2-9"
+         cx="49.395134"
+         cy="33.978809"
+         rx="9.2733812"
+         ry="13.919784" />
+      <path
+         style="fill:none;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="M 35.380957,33.97881 H 63.409311"
+         id="path3" />
+      <path
+         style="fill:none;stroke:#6dabff;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.099233,40.51518 h 24.42859"
+         id="path4" />
+      <path
+         style="fill:none;stroke:#6dabff;stroke-width:1.96396;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.220909,27.245583 h 23.55617"
+         id="path4-4" />
+      <circle
+         style="fill:none;fill-opacity:0;stroke:#6dabff;stroke-width:2.2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="path1"
+         cx="49.395226"
+         cy="33.979225"
+         r="14.233227" />
     </g>
   </g>
 </svg>
