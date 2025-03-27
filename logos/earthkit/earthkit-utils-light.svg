@@ -28,10 +28,10 @@
      inkscape:cy="82.583858"
      inkscape:window-width="1512"
      inkscape:window-height="863"
-     inkscape:window-x="35"
+     inkscape:window-x="498"
      inkscape:window-y="38"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="g22"
      showguides="false">
     <sodipodi:guide
        position="12.702752,37.214004"
@@ -128,13 +128,13 @@
        id="path59" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';display:inline;fill:#808080;stroke:#808080;stroke-width:1.05833;stroke-linecap:square;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';display:inline;fill:#666666;stroke:#666666;stroke-width:1.05833;stroke-linecap:square;stroke-opacity:1"
        x="76.619011"
        y="42.032269"
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';fill:#808080;stroke:#808080;stroke-width:1.05833;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.2889px;font-family:'Varela Round';-inkscape-font-specification:'Varela Round';fill:#666666;stroke:#666666;stroke-width:1.05833;stroke-opacity:1"
          x="76.619011"
          y="42.032269">utils</tspan></text>
   </g>
@@ -218,13 +218,8 @@
     <path
        sodipodi:nodetypes="casaacsascaaca"
        id="path2891-6"
-       d="m 23.185806,12.685406 c -0.631696,-0.06724 -1.284463,-0.727245 -1.368703,-1.385308 -0.07152,-0.558816 0.14536,-0.835805 0.825508,-1.454568 0.680137,-0.618752 1.427759,-1.122051 1.086397,-1.703927 -0.806497,-1.37474 -3.470443,-0.535528 -4.595281,0.567977 -1.127634,1.106244 -0.836708,4.770777 -0.836708,4.770777 l -6.898532,7.156692 c -0.579984,0.601691 0.0195,1.909825 0.630845,2.476502 0.621023,0.575609 1.877444,0.975887 2.465288,0.363372 l 6.69878,-6.979795 c 0,0 3.681965,0.09482 4.7084,-1.210546 0.987677,-1.256086 1.610453,-4.150838 0.217083,-4.873082 -0.596571,-0.309212 -1.072956,0.953413 -1.531764,1.340552 -0.632138,0.62886 -0.850672,0.989965 -1.401313,0.931354 z"
-       style="display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.555345px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       sodipodi:nodetypes="ccsasc"
-       id="path3673-3"
-       d="m 15.581019,15.849221 3.459964,3.444085 -4.546363,4.7516 c -0.794618,0.830487 -2.57344,0.03211 -3.259195,-0.898318 -0.545747,-0.740549 -0.63581,-2.147391 0,-2.80471 z"
-       style="display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.555345px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+       d="m 22.883233,12.800614 c -0.669484,-0.07273 -1.3613,-0.78665 -1.450579,-1.498467 -0.0758,-0.604462 0.154056,-0.904077 0.87489,-1.5733842 C 23.028367,9.0594687 23.820711,8.5150579 23.45893,7.8856516 22.604188,6.3986164 19.780885,7.3063791 18.588759,8.5000235 17.39367,9.6966302 17.702,13.660499 17.702,13.660499 l -7.311202,7.741285 c -0.6146785,0.65084 0.02067,2.065828 0.668583,2.678795 0.658172,0.622627 1.989752,1.055601 2.612761,0.393054 l 7.0995,-7.549938 c 0,0 3.902219,0.102563 4.990055,-1.309429 1.04676,-1.358689 1.706791,-4.489898 0.230069,-5.271138 -0.632257,-0.33447 -1.13714,1.031292 -1.623394,1.450054 -0.669952,0.680229 -0.901559,1.07083 -1.485139,1.007432 z"
+       style="display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.594606px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccaaccaacaaccc"
        id="path3731-1"
@@ -239,20 +234,20 @@
      style="display:inline">
     <g
        id="g21"
-       style="display:inline;fill:#c83737;stroke:#808080;stroke-width:2.2;stroke-dasharray:none;stroke-opacity:1">
+       style="display:inline;fill:#c83737;stroke:#666666;stroke-width:2.2;stroke-dasharray:none;stroke-opacity:1">
       <g
          id="g20"
-         style="fill:#c83737;stroke:#808080;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1">
+         style="fill:#c83737;stroke:#666666;stroke-width:2.2;stroke-linecap:square;stroke-dasharray:none;stroke-opacity:1">
         <path
            id="path20"
-           style="fill:#c83737;fill-opacity:0;stroke:#808080;stroke-width:2.2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:#c83737;fill-opacity:0;stroke:#666666;stroke-width:2.2;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
            d="M 63.628452,33.979225 A 14.233227,14.233227 0 0 1 49.395226,48.212452 14.233227,14.233227 0 0 1 35.161999,33.979225 14.233227,14.233227 0 0 1 49.395226,19.745998 14.233227,14.233227 0 0 1 63.628452,33.979225 Z" />
       </g>
       <g
          inkscape:groupmode="layer"
          id="layer3"
          inkscape:label="cube"
-         style="fill:#c83737;stroke:#808080;stroke-width:2.2;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#c83737;stroke:#666666;stroke-width:2.2;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
