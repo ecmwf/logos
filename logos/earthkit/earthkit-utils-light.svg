@@ -28,8 +28,8 @@
      inkscape:cy="82.583858"
      inkscape:window-width="1512"
      inkscape:window-height="863"
-     inkscape:window-x="498"
-     inkscape:window-y="38"
+     inkscape:window-x="1546"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:current-layer="g22"
      showguides="false">
@@ -85,31 +85,7 @@
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
-     id="defs1">
-    <rect
-       x="297.27747"
-       y="98.696114"
-       width="252.09129"
-       height="79.670357"
-       id="rect12" />
-    <rect
-       x="297.27747"
-       y="98.696114"
-       width="252.09129"
-       height="79.670357"
-       id="rect22" />
-    <linearGradient
-       id="linearGradient5467">
-      <stop
-         style="stop-color:#cbd4d9;stop-opacity:1;"
-         offset="0"
-         id="stop5469" />
-      <stop
-         style="stop-color:#fefeff;stop-opacity:1"
-         offset="1"
-         id="stop5471" />
-    </linearGradient>
-  </defs>
+     id="defs1" />
   <g
      inkscape:label="text"
      inkscape:groupmode="layer"

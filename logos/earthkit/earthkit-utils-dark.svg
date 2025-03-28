@@ -28,10 +28,10 @@
      inkscape:cy="62.680554"
      inkscape:window-width="1512"
      inkscape:window-height="863"
-     inkscape:window-x="168"
-     inkscape:window-y="38"
+     inkscape:window-x="933"
+     inkscape:window-y="467"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="g22"
      showguides="false">
     <sodipodi:guide
        position="12.702752,37.214004"
@@ -85,64 +85,7 @@
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
-     id="defs1">
-    <rect
-       x="297.27747"
-       y="98.696114"
-       width="252.09129"
-       height="79.670357"
-       id="rect12" />
-    <rect
-       x="297.27747"
-       y="98.696114"
-       width="252.09129"
-       height="79.670357"
-       id="rect22" />
-    <linearGradient
-       id="linearGradient5467">
-      <stop
-         style="stop-color:#cbd4d9;stop-opacity:1;"
-         offset="0"
-         id="stop5469" />
-      <stop
-         style="stop-color:#fefeff;stop-opacity:1"
-         offset="1"
-         id="stop5471" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3665-7-6">
-      <stop
-         id="stop3667-7-5"
-         offset="0"
-         style="stop-color:#b7b7b7;stop-opacity:1;" />
-      <stop
-         id="stop3669-5-1"
-         offset="1"
-         style="stop-color:#f1f1f1;stop-opacity:0.99215686;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3675-2-5">
-      <stop
-         id="stop3677-2-6"
-         offset="0"
-         style="stop-color:#e6bc10;stop-opacity:1;" />
-      <stop
-         id="stop3679-4-1"
-         offset="1"
-         style="stop-color:#dbe683;stop-opacity:1;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3685-4-4">
-      <stop
-         id="stop3687-6-7"
-         offset="0"
-         style="stop-color:#c78e5b;stop-opacity:1;" />
-      <stop
-         id="stop3689-9-3"
-         offset="1"
-         style="stop-color:#cf7d3e;stop-opacity:1;" />
-    </linearGradient>
-  </defs>
+     id="defs1" />
   <g
      inkscape:label="text"
      inkscape:groupmode="layer"
